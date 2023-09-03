@@ -28,4 +28,3 @@ app.get('/api/transactions', async (req,res) => {
 
 app.listen(4000);
 
-// MwQxmxkWr4EtySzJ
