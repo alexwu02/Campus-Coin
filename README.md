@@ -1,3 +1,3 @@
 ## Campus Coin
 
-- A react application that allows you track your most recent transactions while updating your balance aswell
+- A react application tailed towards university students to consistently track their expenses
